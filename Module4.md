@@ -7,11 +7,11 @@
 ---
 
 ### Q2. In the shared responsibility model, which of the following are examples of "Security in the cloud"?
-**Options:**
-A. Compliance with compute security standards and regulations.
-B. Physical security of the facilities in which the service operates.
-C. Security group configurations.
-D. Encryption of the data at rest and data in transit.
+**Options:** <br/>
+A. Compliance with compute security standards and regulations. <br/>
+B. Physical security of the facilities in which the service operates. <br/>
+C. Security group configurations. <br/>
+D. Encryption of the data at rest and data in transit. <br/>
 E. Protecting the global infrastructure.
 
 **Answer:**
@@ -21,10 +21,10 @@ E. Protecting the global infrastructure.
 ---
 
 ### Q3. Which of the following is the responsibility of AWS under the AWS shared responsibility model? (Select the best answer).
-**Options:**
-A. Configuring third-party applications.
-B. Maintaining physical hardware.
-C. Security application access and data.
+**Options:** <br/>
+A. Configuring third-party applications. <br/>
+B. Maintaining physical hardware. <br/>
+C. Security application access and data. <br/>
 D. Managing custom Amazon machine images (AMIs).
 
 **Answer:**
@@ -33,11 +33,11 @@ D. Managing custom Amazon machine images (AMIs).
 ---
 
 ### Q4. When creating an AWS Identity and Access Management (IAM) policy, what are the two types of access that can be granted to a user? (Choose two).
-**Options:**
-A. Institutional Access.
-B. Authorized Access.
-C. Programmatic Access.
-D. AWS Management Console Access.
+**Options:** <br/>
+A. Institutional Access. <br/>
+B. Authorized Access. <br/>
+C. Programmatic Access. <br/>
+D. AWS Management Console Access. <br/>
 E. Administrative Root Access.
 
 **Answer:**
@@ -57,11 +57,11 @@ E. Administrative Root Access.
 ---
 
 ### Q6. Which of the following are best practices to secure your account using AWS Identity and Access Management? (Choose 2).
-**Options:**
-A. Provide users with default administrative privileges.
-B. Leave unused and unnecessary users and credentials in place.
-C. Manage access to AWS resources.
-D. Avoid using IAM groups to grant the same access permissions to multiple users.
+**Options:** <br/>
+A. Provide users with default administrative privileges. <br/>
+B. Leave unused and unnecessary users and credentials in place. <br/>
+C. Manage access to AWS resources. <br/>
+D. Avoid using IAM groups to grant the same access permissions to multiple users. <br/>
 E. Define fine-grained access rights.
 
 **Answer:**
@@ -71,10 +71,10 @@ E. Define fine-grained access rights.
 ---
 
 ### Q7. Which of the following should be done by the AWS account root user? (Select the best answer).
-**Options:**
-A. Secure access for applications.
-B. Integrate with other AWS services.
-C. Change granular permissions.
+**Options:** <br/>
+A. Secure access for applications. <br/>
+B. Integrate with other AWS services. <br/>
+C. Change granular permissions. <br/>
 D. Change the AWS support plan.
 
 **Answer:**
@@ -83,10 +83,10 @@ D. Change the AWS support plan.
 ---
 
 ### Q8. After initial login, what does AWS recommend as the best practice for the AWS account root user?
-**Options:**
-A. Delete the AWS account root user.
-B. Revoke all permissions on the AWS account root user.
-C. Restrict permission on the AWS account root user.
+**Options:** <br/>
+A. Delete the AWS account root user. <br/>
+B. Revoke all permissions on the AWS account root user. <br/>
+C. Restrict permission on the AWS account root user. <br/>
 D. Delete the access keys of the AWS account root user.
 
 **Answer:**
@@ -95,10 +95,10 @@ D. Delete the access keys of the AWS account root user.
 ---
 
 ### Q9. How would a system administrator add an additional layer of login security to a user's AWS Management Console?
-**Options:**
-A. Use Amazon Cloud Directory.
-B. Audit AWS Identity and Access Management (IAM) roles.
-C. Enable multi-factor authentication.
+**Options:** <br/>
+A. Use Amazon Cloud Directory. <br/>
+B. Audit AWS Identity and Access Management (IAM) roles. <br/>
+C. Enable multi-factor authentication. <br/>
 D. Enable AWS CloudTrail.
 
 **Answer:**
