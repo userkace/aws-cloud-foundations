@@ -37,7 +37,7 @@ D. All of the above.
 ---
 
 ### Q4. Which Amazon Elastic Compute Cloud EC2 feature ensures your instances will not share a physical host with instances from any other AWS customer? (Select the best answer).
-**Options:**
+**Options:** <br/>
 A. Amazon VPC. <br/>
 B. Placement Groups. <br/>
 C. Dedicated Instances. <br/>
