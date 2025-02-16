@@ -115,11 +115,11 @@ D. Security group
 ---
 
 ### Q12. You are a solutions architect who works at a large retail company that is migrating its existing infrastructure to AWS. You recommend that they use a custom VPC. When you create a VPC, you assign it to an IPv4 Classless Inter-Domain Routing (CIDR) block of 10.0.1.0/24 (which has 256 total IP addresses). How many IP addresses are available?
-**Options:**
+**Options:** <br/>
 A. 251 <br/>
 B. 256 <br/>
 C. 246 <br/>
-D. 250 <br/>
+D. 250
 
 **Answer:**
 - [A] 251
